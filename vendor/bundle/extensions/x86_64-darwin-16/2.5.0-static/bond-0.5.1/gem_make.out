@@ -1,0 +1,16 @@
+current directory: /Users/danielbarboni/Projetos/RailsApps/onebitcode/chatbot/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+/Users/danielbarboni/.rbenv/versions/2.5.0/bin/ruby -r ./siteconf20180211-8958-vntkfc.rb extconf.rb
+
+current directory: /Users/danielbarboni/Projetos/RailsApps/onebitcode/chatbot/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: /Users/danielbarboni/Projetos/RailsApps/onebitcode/chatbot/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR="
+echo "This is a dummy extension"
+This is a dummy extension
+
+current directory: /Users/danielbarboni/Projetos/RailsApps/onebitcode/chatbot/vendor/bundle/gems/bond-0.5.1/ext/readline_line_buffer
+make "DESTDIR=" install
+echo "This is a dummy extension"
+This is a dummy extension

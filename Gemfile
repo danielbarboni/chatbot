@@ -1,15 +1,16 @@
 source :rubygems
+gem 'pg', '~> 0.18'
 gem 'sinatra'
-gem "activerecord"
-gem "sinatra-activerecord"
-gem 'pg'
+gem 'activerecord'
+gem 'sinatra-activerecord'
+
 gem 'rake'
 
 group :development do
- gem "tux"
+ gem 'tux'
 end
 
 group :test do
-  gem "rack-test", require: "rack/test"
-  gem "rspec"
+  gem 'rack-test', require: 'rack/test'
+  gem 'rspec'
 end
